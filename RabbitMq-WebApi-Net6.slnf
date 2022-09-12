@@ -1,9 +1,0 @@
-{
-  "solution": {
-    "path": "RabbitMq-WebApi-Net6.sln",
-    "projects": [
-      "RabbitMQConsoleApplication\\RabbitMQConsoleApplication.csproj",
-      "WebApi\\RabbitMQApi.csproj"
-    ]
-  }
-}

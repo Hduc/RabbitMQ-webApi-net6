@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "KZ1qN3WCAWTv5NUWO3AOSE7lGFiGJCAS03Ms2N6W/qBwSzSnbsFIBRPvRGCMqAJqcQSU9w2PKzQ1Hzq+HxtuWQ==",
+  "success": true,
+  "projectFilePath": "D:\\LacViet\\E-Office\\E-Office\\Core\\SurePortal.StreamingFile\\RabbitMQConsoleApplication\\RabbitMQConsoleApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HDUC\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\HDUC\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\HDUC\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512",
+    "C:\\Users\\HDUC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.2\\microsoft.netcore.app.host.win-x64.6.0.2.nupkg.sha512",
+    "C:\\Users\\HDUC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.0\\microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512",
+    "C:\\Users\\HDUC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.0\\microsoft.windowsdesktop.app.ref.6.0.0.nupkg.sha512",
+    "C:\\Users\\HDUC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.0\\microsoft.netcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+D:\LacViet\E-Office\E-Office\Core\SurePortal.StreamingFile\RabbitMQConsoleApplication\bin\Debug\net6.0\RabbitMQConsoleApplication.exe
+D:\LacViet\E-Office\E-Office\Core\SurePortal.StreamingFile\RabbitMQConsoleApplication\bin\Debug\net6.0\RabbitMQConsoleApplication.deps.json
+D:\LacViet\E-Office\E-Office\Core\SurePortal.StreamingFile\RabbitMQConsoleApplication\bin\Debug\net6.0\RabbitMQConsoleApplication.runtimeconfig.json
+D:\LacViet\E-Office\E-Office\Core\SurePortal.StreamingFile\RabbitMQConsoleApplication\bin\Debug\net6.0\RabbitMQConsoleApplication.dll
+D:\LacViet\E-Office\E-Office\Core\SurePortal.StreamingFile\RabbitMQConsoleApplication\bin\Debug\net6.0\RabbitMQConsoleApplication.pdb
+D:\LacViet\E-Office\E-Office\Core\SurePortal.StreamingFile\RabbitMQConsoleApplication\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\LacViet\E-Office\E-Office\Core\SurePortal.StreamingFile\RabbitMQConsoleApplication\obj\Debug\net6.0\RabbitMQConsoleApplication.csproj.AssemblyReference.cache
+D:\LacViet\E-Office\E-Office\Core\SurePortal.StreamingFile\RabbitMQConsoleApplication\obj\Debug\net6.0\RabbitMQConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\LacViet\E-Office\E-Office\Core\SurePortal.StreamingFile\RabbitMQConsoleApplication\obj\Debug\net6.0\RabbitMQConsoleApplication.AssemblyInfoInputs.cache
+D:\LacViet\E-Office\E-Office\Core\SurePortal.StreamingFile\RabbitMQConsoleApplication\obj\Debug\net6.0\RabbitMQConsoleApplication.AssemblyInfo.cs
+D:\LacViet\E-Office\E-Office\Core\SurePortal.StreamingFile\RabbitMQConsoleApplication\obj\Debug\net6.0\RabbitMQConsoleApplication.csproj.CoreCompileInputs.cache
+D:\LacViet\E-Office\E-Office\Core\SurePortal.StreamingFile\RabbitMQConsoleApplication\obj\Debug\net6.0\RabbitMQConsoleApplication.csproj.CopyComplete
+D:\LacViet\E-Office\E-Office\Core\SurePortal.StreamingFile\RabbitMQConsoleApplication\obj\Debug\net6.0\RabbitMQConsoleApplication.dll
+D:\LacViet\E-Office\E-Office\Core\SurePortal.StreamingFile\RabbitMQConsoleApplication\obj\Debug\net6.0\refint\RabbitMQConsoleApplication.dll
+D:\LacViet\E-Office\E-Office\Core\SurePortal.StreamingFile\RabbitMQConsoleApplication\obj\Debug\net6.0\RabbitMQConsoleApplication.pdb
+D:\LacViet\E-Office\E-Office\Core\SurePortal.StreamingFile\RabbitMQConsoleApplication\obj\Debug\net6.0\RabbitMQConsoleApplication.genruntimeconfig.cache
+D:\LacViet\E-Office\E-Office\Core\SurePortal.StreamingFile\RabbitMQConsoleApplication\obj\Debug\net6.0\ref\RabbitMQConsoleApplication.dll

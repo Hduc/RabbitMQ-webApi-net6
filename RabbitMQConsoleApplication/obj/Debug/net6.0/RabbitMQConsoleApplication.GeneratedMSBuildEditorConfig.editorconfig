@@ -7,4 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RabbitMQConsoleApplication
-build_property.ProjectDir = D:\LacViet\E-Office\E-Office\Core\SurePortal.StreamingFile\RabbitMQConsoleApplication\
+build_property.ProjectDir = D:\Code Demo\RabbitMQ-webApi-net6\RabbitMQConsoleApplication\

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tjxTl5fYmv7jWVXne1gZ/zuK6HllAU+yeVYLEa5zrgJ0AhH3hvioeD5aFG2Hu7XLUg/kmTRnDB+PXg2GXvzk0A==",
+  "dgSpecHash": "XvQLr/qpMS9pWmAfdmyKucN4fnmQqwlsVZrcZFYz2UaxDAmdVYSOzlbxI20qIWr6eoPQRzNG3kGak6fgfeAaPA==",
   "success": true,
-  "projectFilePath": "D:\\LacViet\\E-Office\\E-Office\\Core\\SurePortal.StreamingFile\\SurePortal.Api\\RabbitMQApi.csproj",
+  "projectFilePath": "D:\\Code Demo\\RabbitMQ-webApi-net6\\WebApi\\RabbitMQApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HDUC\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KZ1qN3WCAWTv5NUWO3AOSE7lGFiGJCAS03Ms2N6W/qBwSzSnbsFIBRPvRGCMqAJqcQSU9w2PKzQ1Hzq+HxtuWQ==",
+  "dgSpecHash": "1cwm2/7LookHA0INV+17RPRjubwR3QTNLk3sJQgtP1vvFAyUog+091L7QIVKhKdpO5eyEVYiPigm3GBuylJb4A==",
   "success": true,
-  "projectFilePath": "D:\\LacViet\\E-Office\\E-Office\\Core\\SurePortal.StreamingFile\\RabbitMQConsoleApplication\\RabbitMQConsoleApplication.csproj",
+  "projectFilePath": "D:\\Code Demo\\RabbitMQ-webApi-net6\\RabbitMQConsoleApplication\\RabbitMQConsoleApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HDUC\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
     "C:\\Users\\HDUC\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",

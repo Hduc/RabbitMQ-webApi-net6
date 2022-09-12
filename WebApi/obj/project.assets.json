@@ -2202,11 +2202,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LacViet\\E-Office\\E-Office\\Core\\SurePortal.StreamingFile\\SurePortal.Api\\RabbitMQApi.csproj",
+      "projectUniqueName": "D:\\Code Demo\\RabbitMQ-webApi-net6\\WebApi\\RabbitMQApi.csproj",
       "projectName": "RabbitMQApi",
-      "projectPath": "D:\\LacViet\\E-Office\\E-Office\\Core\\SurePortal.StreamingFile\\SurePortal.Api\\RabbitMQApi.csproj",
+      "projectPath": "D:\\Code Demo\\RabbitMQ-webApi-net6\\WebApi\\RabbitMQApi.csproj",
       "packagesPath": "C:\\Users\\HDUC\\.nuget\\packages\\",
-      "outputPath": "D:\\LacViet\\E-Office\\E-Office\\Core\\SurePortal.StreamingFile\\SurePortal.Api\\obj\\",
+      "outputPath": "D:\\Code Demo\\RabbitMQ-webApi-net6\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
